@@ -4,3 +4,5 @@ Template Name: Minimal
 Template URL: https://templatemag.com/minimal-bootstrap-template/
 Author: TemplateMag.com
 License: https://templatemag.com/license/
+
+https://mizuki793.github.io/portfolio/
