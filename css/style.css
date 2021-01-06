@@ -433,3 +433,11 @@ hr {
 .credits {
   color: #999;
 }
+
+/* add */
+.seikaImg {
+  height: auto;
+  max-width: 80%;
+  margin-top: auto;
+}
+
